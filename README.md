@@ -24,7 +24,7 @@
 <div align="center"> 
 <table><tr><td valign="top" width="100%">
 
-- 🔭 I am currently working on the "MK Design Furniture" project https://desafio-gisela-rios.vercel.app/.  
+- 🔭 I am currently working on the "Vida Coaches" project https://www.vidacoaches.com  
   
 
 - 🌱 I’m currently learning JavaScript.  
